@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">Abnormale der Netzwerkverbindung</string>
+    <string name="net_error">Abnormale des Netzwerk</string>
+    <string name="connect_timeout">Anschluss Unterbrechung</string>
+    <string name="request_timeout">Anforderung Unterbrechung</string>
+    <string name="parse_error">Analysieren Fehler</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">Abnormal network connection</string>
+    <string name="net_error">Network anomaly</string>
+    <string name="connect_timeout">Connection timeout</string>
+    <string name="request_timeout">Request timed out</string>
+    <string name="parse_error">Parse error</string>
+</resources>

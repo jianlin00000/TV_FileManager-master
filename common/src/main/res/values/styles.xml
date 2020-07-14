@@ -1,0 +1,25 @@
+<resources>
+
+    <!--默认对话框样式-->
+    <style name="BaseDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!--设置背景-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否模糊 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!--是否透明-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <!--默认对话框样式-->
+    <style name="BaseNoTitleDialog" parent="BaseDialog">
+        <!-- 是否有标题 -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="anim_right" parent="android:Animation.Dialog">
+        <item name="android:windowEnterAnimation">@anim/anim_right_in</item>
+        <item name="android:windowExitAnimation">@anim/anim_right_out</item>
+    </style>
+</resources>

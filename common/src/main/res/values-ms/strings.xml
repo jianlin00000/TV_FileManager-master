@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">Sambungan rangkaian tidak normal</string>
+    <string name="net_error">anomali rangkaian</string>
+    <string name="connect_timeout">Sambungan telah tamat</string>
+    <string name="request_timeout">Permintaan masa tamat</string>
+    <string name="parse_error">Ralat parsing</string>
+</resources>

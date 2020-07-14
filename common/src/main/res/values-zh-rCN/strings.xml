@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">网络连接异常</string>
+    <string name="net_error">网络异常</string>
+    <string name="connect_timeout">连接超时</string>
+    <string name="request_timeout">请求超时</string>
+    <string name="parse_error">解析错误</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">ネットワーク接続異常</string>
+    <string name="net_error">ネットワーク異常</string>
+    <string name="connect_timeout">接続タイムアウト</string>
+    <string name="request_timeout">要求タイムアウト</string>
+    <string name="parse_error">エラーを解析する</string>
+</resources>

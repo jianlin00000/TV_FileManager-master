@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">Kết nối mạng bất thường</string>
+    <string name="net_error">Mạng bất thường</string>
+    <string name="connect_timeout">Kết nối vượt quá thời gian</string>
+    <string name="request_timeout">Yêu cầu vượt thời gian</string>
+    <string name="parse_error">Phân tích xảy ra lỗi</string>
+</resources>

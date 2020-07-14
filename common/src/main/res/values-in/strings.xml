@@ -1,0 +1,7 @@
+<resources>
+    <string name="connect_error">Koneksi jaringan tidak normal</string>
+    <string name="net_error">anomali jaringan</string>
+    <string name="connect_timeout">Koneksi telah kedaluwarsa</string>
+    <string name="request_timeout">Permintaan batas waktu</string>
+    <string name="parse_error">Kesalahan parsing</string>
+</resources>
